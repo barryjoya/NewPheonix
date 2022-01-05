@@ -8,12 +8,8 @@ public class hey {
  
    
 public static void A (){
-   System.out.print("Person [name=Jack7, age=28, phone=21654635]
-Person [name=Jack7, age=28, phone=21654635]
-Person [name=Jack7, age=28, phone=21654635]
-Person [name=David4, age=28, phone=21654635]
-Person [name=David4, age=28, phone=21654635]
-Person [name=David4, age=28, phone=21654635]");
+   System.out.print("Person [name=Jack7, age=28, phone=21654635]"+
+"Person [name=Jack7, age=28, phone=21654635]"+"");
 }
 	   
    }
